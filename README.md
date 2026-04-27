@@ -167,9 +167,4 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 ## 👤 Author
 
 Abdullah Shaban
-If you want, I can also:
-
-* Make it more **recruiter-focused (for portfolio impact)**
-* Add **badges (accuracy, license, Python version)**
-* Or tailor it specifically for **LinkedIn + GitHub visibility**
 
